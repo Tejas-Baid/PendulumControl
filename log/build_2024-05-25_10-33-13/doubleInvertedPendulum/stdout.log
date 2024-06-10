@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating doubleInvertedPendulum.egg-info
+writing doubleInvertedPendulum.egg-info/PKG-INFO
+writing dependency_links to doubleInvertedPendulum.egg-info/dependency_links.txt
+writing entry points to doubleInvertedPendulum.egg-info/entry_points.txt
+writing requirements to doubleInvertedPendulum.egg-info/requires.txt
+writing top-level names to doubleInvertedPendulum.egg-info/top_level.txt
+writing manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+reading manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+writing manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages/site.py
+Creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages/doubleInvertedPendulum.egg-link (link to .)
+
+Installed /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum
+running symlink_data
+creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index
+creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index/resource_index
+creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index/resource_index/packages
+symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/resource/doubleInvertedPendulum -> /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index/resource_index/packages
+symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/package.xml -> /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/doubleInvertedPendulum

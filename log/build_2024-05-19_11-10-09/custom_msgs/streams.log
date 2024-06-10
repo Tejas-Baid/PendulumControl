@@ -1,0 +1,21 @@
+[0.011s] Invoking command in '/home/tejas/Desktop/PendulumAss/assWS/build/custom_msgs': /usr/bin/cmake /home/tejas/Desktop/PendulumAss/assWS/src/pendulum-problems-ros2/custom_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tejas/Desktop/PendulumAss/assWS/install/custom_msgs
+[0.148s] -- Configuring incomplete, errors occurred!
+[0.148s] See also "/home/tejas/Desktop/PendulumAss/assWS/build/custom_msgs/CMakeFiles/CMakeOutput.log".
+[0.148s] CMake Error at CMakeLists.txt:19 (find_package):
+[0.148s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.149s]   has asked CMake to find a package configuration file provided by
+[0.149s]   "ament_cmake", but CMake did not find one.
+[0.149s] 
+[0.150s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.150s]   any of the following names:
+[0.150s] 
+[0.150s]     ament_cmakeConfig.cmake
+[0.150s]     ament_cmake-config.cmake
+[0.150s] 
+[0.150s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.150s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.150s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.150s]   has been installed.
+[0.150s] 
+[0.151s] 
+[0.151s] Invoked command in '/home/tejas/Desktop/PendulumAss/assWS/build/custom_msgs' returned '1': /usr/bin/cmake /home/tejas/Desktop/PendulumAss/assWS/src/pendulum-problems-ros2/custom_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tejas/Desktop/PendulumAss/assWS/install/custom_msgs

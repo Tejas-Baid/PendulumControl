@@ -1,0 +1,7 @@
+{
+  "package_name": "custom_msgs",
+  "non_idl_tuples": [
+    "/home/tejas/Desktop/PendulumAss/assWS/src/pendulum-problems-ros2/custom_msgs:msg/TorqueInput.msg",
+    "/home/tejas/Desktop/PendulumAss/assWS/src/pendulum-problems-ros2/custom_msgs:msg/States.msg"
+  ]
+}

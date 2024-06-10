@@ -1,0 +1,22 @@
+[0.528s] Invoking command in '/home/tejas/Desktop/PendulumAss/assWS/build/single_inverted': PYTHONPATH=/home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/prefix_override:/home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/build --no-deps symlink_data --force
+[0.775s] running develop
+[0.891s] running egg_info
+[0.891s] writing single_inverted.egg-info/PKG-INFO
+[0.891s] writing dependency_links to single_inverted.egg-info/dependency_links.txt
+[0.891s] writing entry points to single_inverted.egg-info/entry_points.txt
+[0.891s] writing requirements to single_inverted.egg-info/requires.txt
+[0.891s] writing top-level names to single_inverted.egg-info/top_level.txt
+[0.920s] reading manifest file 'single_inverted.egg-info/SOURCES.txt'
+[0.922s] writing manifest file 'single_inverted.egg-info/SOURCES.txt'
+[0.954s] running build_ext
+[0.955s] Creating /home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/lib/python3.8/site-packages/site.py
+[0.957s] Creating /home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/lib/python3.8/site-packages/single-inverted.egg-link (link to .)
+[0.958s] Installing dynamics_sim script to /home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/lib/single_inverted
+[0.958s] 
+[0.958s] Installed /home/tejas/Desktop/PendulumAss/assWS/build/single_inverted
+[0.958s] running symlink_data
+[0.958s] symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/resource/single_inverted -> /home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/share/ament_index/resource_index/packages
+[0.958s] symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/package.xml -> /home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/share/single_inverted
+[0.959s] symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/launch/single_inverted_pendulum.launch.py -> /home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/share/single_inverted/launch/
+[0.959s] symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/config/config.rviz -> /home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/share/single_inverted/config/
+[0.988s] Invoked command in '/home/tejas/Desktop/PendulumAss/assWS/build/single_inverted' returned '0': PYTHONPATH=/home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/prefix_override:/home/tejas/Desktop/PendulumAss/assWS/install/single_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tejas/Desktop/PendulumAss/assWS/build/single_inverted/build --no-deps symlink_data --force

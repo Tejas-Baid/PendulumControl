@@ -1,0 +1,24 @@
+[0.701s] Invoking command in '/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum': PYTHONPATH=/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/prefix_override:/home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/build --no-deps symlink_data
+[0.853s] running develop
+[0.930s] running egg_info
+[0.931s] creating doubleInvertedPendulum.egg-info
+[0.931s] writing doubleInvertedPendulum.egg-info/PKG-INFO
+[0.931s] writing dependency_links to doubleInvertedPendulum.egg-info/dependency_links.txt
+[0.931s] writing entry points to doubleInvertedPendulum.egg-info/entry_points.txt
+[0.931s] writing requirements to doubleInvertedPendulum.egg-info/requires.txt
+[0.931s] writing top-level names to doubleInvertedPendulum.egg-info/top_level.txt
+[0.933s] writing manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+[0.954s] reading manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+[0.955s] writing manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+[0.979s] running build_ext
+[0.980s] Creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages/site.py
+[0.981s] Creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages/doubleInvertedPendulum.egg-link (link to .)
+[0.981s] 
+[0.981s] Installed /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum
+[0.981s] running symlink_data
+[0.982s] creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index
+[0.982s] creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index/resource_index
+[0.982s] creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index/resource_index/packages
+[0.982s] symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/resource/doubleInvertedPendulum -> /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/ament_index/resource_index/packages
+[0.982s] symbolically linking /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/package.xml -> /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/share/doubleInvertedPendulum
+[1.023s] Invoked command in '/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum' returned '0': PYTHONPATH=/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/prefix_override:/home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/build --no-deps symlink_data

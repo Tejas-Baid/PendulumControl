@@ -1,0 +1,3 @@
+[console_scripts]
+dynamics_sim = doubleInvertedPendulum.dynamics_sim:main
+

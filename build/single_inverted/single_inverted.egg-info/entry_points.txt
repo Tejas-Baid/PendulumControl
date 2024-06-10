@@ -1,0 +1,3 @@
+[console_scripts]
+dynamics_sim = single_inverted.dynamics_sim:main
+

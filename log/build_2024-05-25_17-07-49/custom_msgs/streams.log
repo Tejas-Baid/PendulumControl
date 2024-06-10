@@ -1,0 +1,16 @@
+[0.021s] Invoking command in '/home/tejas/Desktop/PendulumAss/assWS/build/custom_msgs': CMAKE_PREFIX_PATH=/home/tejas/Desktop/PendulumAss/assWS/install/single_inverted:/home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum:/home/tejas/Desktop/PendulumAss/assWS/install/custom_msgs:/opt/ros/foxy /usr/bin/cmake --build /home/tejas/Desktop/PendulumAss/assWS/build/custom_msgs -- -j4 -l4
+[0.062s] [  2%] Built target custom_msgs__cpp
+[0.068s] [ 12%] Built target custom_msgs__rosidl_generator_c
+[0.089s] [ 23%] Built target custom_msgs__rosidl_typesupport_introspection_cpp
+[0.095s] [ 33%] Built target custom_msgs__rosidl_typesupport_cpp
+[0.098s] [ 43%] Built target custom_msgs__rosidl_typesupport_c
+[0.106s] [ 53%] Built target custom_msgs__rosidl_typesupport_fastrtps_cpp
+[0.110s] [ 64%] Built target custom_msgs__rosidl_typesupport_introspection_c
+[0.131s] [ 74%] Built target custom_msgs__rosidl_typesupport_fastrtps_c
+[0.145s] [ 74%] Built target custom_msgs
+[0.159s] [ 76%] Built target custom_msgs__py
+[0.178s] [ 84%] Built target custom_msgs__python
+[0.205s] [ 89%] Built target custom_msgs__rosidl_typesupport_c__pyext
+[0.205s] [100%] Built target custom_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.205s] [100%] Built target custom_msgs__rosidl_typesupport_introspection_c__pyext
+[0.240s] Invoked command in '/home/tejas/Desktop/PendulumAss/assWS/build/custom_msgs' returned '0': CMAKE_PREFIX_PATH=/home/tejas/Desktop/PendulumAss/assWS/install/single_inverted:/home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum:/home/tejas/Desktop/PendulumAss/assWS/install/custom_msgs:/opt/ros/foxy /usr/bin/cmake --build /home/tejas/Desktop/PendulumAss/assWS/build/custom_msgs -- -j4 -l4

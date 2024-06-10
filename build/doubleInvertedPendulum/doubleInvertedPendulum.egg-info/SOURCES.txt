@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+doubleInvertedPendulum/__init__.py
+doubleInvertedPendulum/dynamics_sim.py
+doubleInvertedPendulum.egg-info/PKG-INFO
+doubleInvertedPendulum.egg-info/SOURCES.txt
+doubleInvertedPendulum.egg-info/dependency_links.txt
+doubleInvertedPendulum.egg-info/entry_points.txt
+doubleInvertedPendulum.egg-info/requires.txt
+doubleInvertedPendulum.egg-info/top_level.txt
+doubleInvertedPendulum.egg-info/zip-safe
+resource/doubleInvertedPendulum

@@ -1,0 +1,17 @@
+[0.781s] Invoking command in '/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum': PYTHONPATH=/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/prefix_override:/home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/build --no-deps symlink_data
+[1.041s] running develop
+[1.177s] running egg_info
+[1.177s] writing doubleInvertedPendulum.egg-info/PKG-INFO
+[1.177s] writing dependency_links to doubleInvertedPendulum.egg-info/dependency_links.txt
+[1.177s] writing entry points to doubleInvertedPendulum.egg-info/entry_points.txt
+[1.177s] writing requirements to doubleInvertedPendulum.egg-info/requires.txt
+[1.177s] writing top-level names to doubleInvertedPendulum.egg-info/top_level.txt
+[1.216s] reading manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+[1.217s] writing manifest file 'doubleInvertedPendulum.egg-info/SOURCES.txt'
+[1.257s] running build_ext
+[1.257s] Creating /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages/doubleInvertedPendulum.egg-link (link to .)
+[1.258s] Installing dynamics_sim script to /home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/doubleInvertedPendulum
+[1.258s] 
+[1.258s] Installed /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum
+[1.258s] running symlink_data
+[1.299s] Invoked command in '/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum' returned '0': PYTHONPATH=/home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/prefix_override:/home/tejas/Desktop/PendulumAss/assWS/install/doubleInvertedPendulum/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tejas/Desktop/PendulumAss/assWS/build/doubleInvertedPendulum/build --no-deps symlink_data
